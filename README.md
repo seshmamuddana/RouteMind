@@ -16,8 +16,7 @@ route_features.csv
 Load Dataset
         │
         ▼
-Encode Target Variable
-(Route Score)
+Preprocessing of data
         │
         ▼
 Feature Selection
