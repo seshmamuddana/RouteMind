@@ -1,9 +1,39 @@
 Track 3: RouteMind
 Adaptive Route Optimization for the Supply Chain 
 
+
 Project Overview
 
 RouteMind is an AI-powered route optimization system designed to improve first-mile, middle-mile, and last-mile logistics. The project utilizes the Amazon Last Mile Routing Research Challenge Dataset to analyze delivery routes, preprocess logistics data, and prepare it for intelligent route optimization and real-time replanning.
+
+Work flow:
+
+route_features.csv
+        │
+        ▼
+Load Dataset
+        │
+        ▼
+Encode Target Variable
+(Route Score)
+        │
+        ▼
+Feature Selection
+        │
+        ▼
+Train-Test Split
+(80% Train | 20% Test)
+        │
+        ▼
+Random Forest Classifier
+        │
+        ▼
+Model Evaluation
+(Accuracy & Classification Report)
+        │
+        ▼
+Save Trained Model
+(route_model.pkl)
 
 Step-1 :  Data Collection
 Amazon Last Mile Routing Research Challenge (2021)
@@ -34,4 +64,19 @@ Calculated distance between consecutive delivery stops through longitudes and la
 Created route-level features such as Total Stops, Total Distance, Average Stop Distance, and Vehicle Capacity.
 Derived optimization metrics including Dropoff Ratio, Distance per Stop, Capacity Utilization, and Stops per Kilometer.
 Generated the final feature-engineered dataset.
+
+Step 5: Model Training
+
+A Machine Learning model was trained to predict the Route Score using the engineered route features. The trained model will assist in evaluating route quality and support intelligent route optimization.
+
+Tasks Performed
+Loaded the feature-engineered dataset (route_features.csv).
+Encoded the target variable (RouteScore) using Label Encoding.
+Selected relevant route features for training.
+Split the dataset into training and testing sets (80:20).
+Trained a Random Forest Classifier.
+Evaluated the model using Accuracy Score and Classification Report.
+Saved the trained model and label encoder for future predictions.
+Model Used : Random Forest Classifier
+
 
