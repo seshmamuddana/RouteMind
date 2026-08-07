@@ -1,4 +1,4 @@
-# 🚚 Track 3: RouteMind
+#  Track 3: RouteMind
 ## Adaptive Route Optimization for the Supply Chain
 
 ## 📌 Project Overview
@@ -7,7 +7,7 @@ RouteMind is an AI-powered route optimization system designed to improve first-m
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 route_features.csv
@@ -103,6 +103,6 @@ A Machine Learning model was trained to predict the **Route Score** using the en
 
 ### Model Used
 
-- 🌲 Random Forest Classifier
+-  Random Forest Classifier
 
 ---
