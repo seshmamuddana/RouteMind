@@ -272,10 +272,6 @@ The system explains every route modification by highlighting:
 - Scikit-learn
 - Random Forest
 
-## Optimization
-
-- Google OR-Tools
-
 ## Data Processing
 
 - Pandas
