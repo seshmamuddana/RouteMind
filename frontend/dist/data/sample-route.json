@@ -1,0 +1,959 @@
+{
+  "routeId": "RouteID_00143bdd-0a6b-49ec-bb35-36593d303e77",
+  "station": "DLA3",
+  "date": "2018-07-27",
+  "stops": [
+    {
+      "StopID": "VE",
+      "Latitude": 34.007369,
+      "Longitude": -118.143927,
+      "StopType": "Station",
+      "ActualSequence": 0,
+      "ZoneID": null
+    },
+    {
+      "StopID": "TG",
+      "Latitude": 34.088467,
+      "Longitude": -118.284521,
+      "StopType": "Dropoff",
+      "ActualSequence": 1,
+      "ZoneID": "A-2.2A"
+    },
+    {
+      "StopID": "GP",
+      "Latitude": 34.088709,
+      "Longitude": -118.284839,
+      "StopType": "Dropoff",
+      "ActualSequence": 2,
+      "ZoneID": "A-2.2A"
+    },
+    {
+      "StopID": "HT",
+      "Latitude": 34.088717,
+      "Longitude": -118.286484,
+      "StopType": "Dropoff",
+      "ActualSequence": 3,
+      "ZoneID": "A-2.2A"
+    },
+    {
+      "StopID": "AG",
+      "Latitude": 34.089727,
+      "Longitude": -118.28553,
+      "StopType": "Dropoff",
+      "ActualSequence": 4,
+      "ZoneID": "A-2.1A"
+    },
+    {
+      "StopID": "QM",
+      "Latitude": 34.090901,
+      "Longitude": -118.284257,
+      "StopType": "Dropoff",
+      "ActualSequence": 5,
+      "ZoneID": "A-2.1A"
+    },
+    {
+      "StopID": "SF",
+      "Latitude": 34.092285,
+      "Longitude": -118.283236,
+      "StopType": "Dropoff",
+      "ActualSequence": 6,
+      "ZoneID": "A-1.1A"
+    },
+    {
+      "StopID": "BY",
+      "Latitude": 34.091721,
+      "Longitude": -118.284539,
+      "StopType": "Dropoff",
+      "ActualSequence": 7,
+      "ZoneID": "A-1.1A"
+    },
+    {
+      "StopID": "CW",
+      "Latitude": 34.093458,
+      "Longitude": -118.284798,
+      "StopType": "Dropoff",
+      "ActualSequence": 8,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "VW",
+      "Latitude": 34.093177,
+      "Longitude": -118.283405,
+      "StopType": "Dropoff",
+      "ActualSequence": 9,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "JH",
+      "Latitude": 34.09289,
+      "Longitude": -118.282396,
+      "StopType": "Dropoff",
+      "ActualSequence": 10,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "LB",
+      "Latitude": 34.093152,
+      "Longitude": -118.282542,
+      "StopType": "Dropoff",
+      "ActualSequence": 11,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "FH",
+      "Latitude": 34.093868,
+      "Longitude": -118.283305,
+      "StopType": "Dropoff",
+      "ActualSequence": 12,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "TK",
+      "Latitude": 34.094506,
+      "Longitude": -118.283993,
+      "StopType": "Dropoff",
+      "ActualSequence": 13,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "PT",
+      "Latitude": 34.09581,
+      "Longitude": -118.284534,
+      "StopType": "Dropoff",
+      "ActualSequence": 14,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "DL",
+      "Latitude": 34.094262,
+      "Longitude": -118.283726,
+      "StopType": "Dropoff",
+      "ActualSequence": 15,
+      "ZoneID": "A-1.2A"
+    },
+    {
+      "StopID": "GU",
+      "Latitude": 34.095431,
+      "Longitude": -118.286601,
+      "StopType": "Dropoff",
+      "ActualSequence": 16,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "KN",
+      "Latitude": 34.094347,
+      "Longitude": -118.285564,
+      "StopType": "Dropoff",
+      "ActualSequence": 17,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "NR",
+      "Latitude": 34.092186,
+      "Longitude": -118.285547,
+      "StopType": "Dropoff",
+      "ActualSequence": 18,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "SC",
+      "Latitude": 34.0915,
+      "Longitude": -118.286608,
+      "StopType": "Dropoff",
+      "ActualSequence": 19,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "IJ",
+      "Latitude": 34.093126,
+      "Longitude": -118.286591,
+      "StopType": "Dropoff",
+      "ActualSequence": 20,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "XB",
+      "Latitude": 34.09346,
+      "Longitude": -118.286891,
+      "StopType": "Dropoff",
+      "ActualSequence": 21,
+      "ZoneID": "A-1.3A"
+    },
+    {
+      "StopID": "KP",
+      "Latitude": 34.092428,
+      "Longitude": -118.2878,
+      "StopType": "Dropoff",
+      "ActualSequence": 22,
+      "ZoneID": "A-1.3B"
+    },
+    {
+      "StopID": "IW",
+      "Latitude": 34.095705,
+      "Longitude": -118.287525,
+      "StopType": "Dropoff",
+      "ActualSequence": 23,
+      "ZoneID": "A-1.3B"
+    },
+    {
+      "StopID": "TH",
+      "Latitude": 34.095641,
+      "Longitude": -118.289226,
+      "StopType": "Dropoff",
+      "ActualSequence": 24,
+      "ZoneID": "A-1.3B"
+    },
+    {
+      "StopID": "MR",
+      "Latitude": 34.09451,
+      "Longitude": -118.28895,
+      "StopType": "Dropoff",
+      "ActualSequence": 25,
+      "ZoneID": "A-1.1B"
+    },
+    {
+      "StopID": "CG",
+      "Latitude": 34.093119,
+      "Longitude": -118.291761,
+      "StopType": "Dropoff",
+      "ActualSequence": 26,
+      "ZoneID": "A-1.1B"
+    },
+    {
+      "StopID": "LG",
+      "Latitude": 34.091648,
+      "Longitude": -118.29175,
+      "StopType": "Dropoff",
+      "ActualSequence": 27,
+      "ZoneID": "A-1.1B"
+    },
+    {
+      "StopID": "DJ",
+      "Latitude": 34.09039,
+      "Longitude": -118.293879,
+      "StopType": "Dropoff",
+      "ActualSequence": 28,
+      "ZoneID": "A-1.1C"
+    },
+    {
+      "StopID": "NL",
+      "Latitude": 34.091351,
+      "Longitude": -118.293884,
+      "StopType": "Dropoff",
+      "ActualSequence": 29,
+      "ZoneID": "A-1.1C"
+    },
+    {
+      "StopID": "UR",
+      "Latitude": 34.091408,
+      "Longitude": -118.292792,
+      "StopType": "Dropoff",
+      "ActualSequence": 30,
+      "ZoneID": "A-1.1C"
+    },
+    {
+      "StopID": "ZE",
+      "Latitude": 34.093294,
+      "Longitude": -118.292799,
+      "StopType": "Dropoff",
+      "ActualSequence": 31,
+      "ZoneID": "A-1.1C"
+    },
+    {
+      "StopID": "VA",
+      "Latitude": 34.094216,
+      "Longitude": -118.293212,
+      "StopType": "Dropoff",
+      "ActualSequence": 32,
+      "ZoneID": "A-1.1C"
+    },
+    {
+      "StopID": "BA",
+      "Latitude": 34.096132,
+      "Longitude": -118.292869,
+      "StopType": "Dropoff",
+      "ActualSequence": 33,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "YH",
+      "Latitude": 34.097287,
+      "Longitude": -118.292869,
+      "StopType": "Dropoff",
+      "ActualSequence": 34,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "DQ",
+      "Latitude": 34.097468,
+      "Longitude": -118.291886,
+      "StopType": "Dropoff",
+      "ActualSequence": 35,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "CP",
+      "Latitude": 34.096991,
+      "Longitude": -118.290254,
+      "StopType": "Dropoff",
+      "ActualSequence": 36,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "DN",
+      "Latitude": 34.096991,
+      "Longitude": -118.290254,
+      "StopType": "Dropoff",
+      "ActualSequence": 37,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "UJ",
+      "Latitude": 34.098157,
+      "Longitude": -118.289765,
+      "StopType": "Dropoff",
+      "ActualSequence": 38,
+      "ZoneID": "A-1.3D"
+    },
+    {
+      "StopID": "UW",
+      "Latitude": 34.0954,
+      "Longitude": -118.29115,
+      "StopType": "Dropoff",
+      "ActualSequence": 39,
+      "ZoneID": "A-1.2C"
+    },
+    {
+      "StopID": "HN",
+      "Latitude": 34.096583,
+      "Longitude": -118.294127,
+      "StopType": "Dropoff",
+      "ActualSequence": 40,
+      "ZoneID": "A-1.3C"
+    },
+    {
+      "StopID": "KJ",
+      "Latitude": 34.099091,
+      "Longitude": -118.28993,
+      "StopType": "Dropoff",
+      "ActualSequence": 41,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "GN",
+      "Latitude": 34.099634,
+      "Longitude": -118.289397,
+      "StopType": "Dropoff",
+      "ActualSequence": 42,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "CA",
+      "Latitude": 34.100562,
+      "Longitude": -118.290796,
+      "StopType": "Dropoff",
+      "ActualSequence": 43,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "TC",
+      "Latitude": 34.100716,
+      "Longitude": -118.291027,
+      "StopType": "Dropoff",
+      "ActualSequence": 44,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "NE",
+      "Latitude": 34.100619,
+      "Longitude": -118.29239,
+      "StopType": "Dropoff",
+      "ActualSequence": 45,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "LD",
+      "Latitude": 34.099557,
+      "Longitude": -118.291764,
+      "StopType": "Dropoff",
+      "ActualSequence": 46,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "AF",
+      "Latitude": 34.101587,
+      "Longitude": -118.291125,
+      "StopType": "Dropoff",
+      "ActualSequence": 47,
+      "ZoneID": "A-1.2D"
+    },
+    {
+      "StopID": "KA",
+      "Latitude": 34.101797,
+      "Longitude": -118.290697,
+      "StopType": "Dropoff",
+      "ActualSequence": 48,
+      "ZoneID": "A-1.1D"
+    },
+    {
+      "StopID": "BT",
+      "Latitude": 34.101474,
+      "Longitude": -118.289609,
+      "StopType": "Dropoff",
+      "ActualSequence": 49,
+      "ZoneID": "A-1.1D"
+    },
+    {
+      "StopID": "MW",
+      "Latitude": 34.101063,
+      "Longitude": -118.288518,
+      "StopType": "Dropoff",
+      "ActualSequence": 50,
+      "ZoneID": "A-1.1D"
+    },
+    {
+      "StopID": "KM",
+      "Latitude": 34.100535,
+      "Longitude": -118.288505,
+      "StopType": "Dropoff",
+      "ActualSequence": 51,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "UI",
+      "Latitude": 34.099902,
+      "Longitude": -118.287399,
+      "StopType": "Dropoff",
+      "ActualSequence": 52,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "BG",
+      "Latitude": 34.102251,
+      "Longitude": -118.287403,
+      "StopType": "Dropoff",
+      "ActualSequence": 53,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "CO",
+      "Latitude": 34.1018,
+      "Longitude": -118.286716,
+      "StopType": "Dropoff",
+      "ActualSequence": 54,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "KG",
+      "Latitude": 34.101133,
+      "Longitude": -118.2874,
+      "StopType": "Dropoff",
+      "ActualSequence": 55,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "EO",
+      "Latitude": 34.096917,
+      "Longitude": -118.285385,
+      "StopType": "Dropoff",
+      "ActualSequence": 56,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "IA",
+      "Latitude": 34.096205,
+      "Longitude": -118.284572,
+      "StopType": "Dropoff",
+      "ActualSequence": 57,
+      "ZoneID": "P-13.2A"
+    },
+    {
+      "StopID": "YE",
+      "Latitude": 34.097061,
+      "Longitude": -118.284074,
+      "StopType": "Dropoff",
+      "ActualSequence": 58,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "RG",
+      "Latitude": 34.099046,
+      "Longitude": -118.28306,
+      "StopType": "Dropoff",
+      "ActualSequence": 59,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "VC",
+      "Latitude": 34.098179,
+      "Longitude": -118.282761,
+      "StopType": "Dropoff",
+      "ActualSequence": 60,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "BZ",
+      "Latitude": 34.098179,
+      "Longitude": -118.281075,
+      "StopType": "Dropoff",
+      "ActualSequence": 61,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "ZU",
+      "Latitude": 34.09701,
+      "Longitude": -118.281945,
+      "StopType": "Dropoff",
+      "ActualSequence": 62,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "KU",
+      "Latitude": 34.095811,
+      "Longitude": -118.282443,
+      "StopType": "Dropoff",
+      "ActualSequence": 63,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "GS",
+      "Latitude": 34.096958,
+      "Longitude": -118.283054,
+      "StopType": "Dropoff",
+      "ActualSequence": 64,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "NU",
+      "Latitude": 34.096542,
+      "Longitude": -118.283056,
+      "StopType": "Dropoff",
+      "ActualSequence": 65,
+      "ZoneID": "P-13.1C"
+    },
+    {
+      "StopID": "MA",
+      "Latitude": 34.09491,
+      "Longitude": -118.282442,
+      "StopType": "Dropoff",
+      "ActualSequence": 66,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "BP",
+      "Latitude": 34.095585,
+      "Longitude": -118.28179,
+      "StopType": "Dropoff",
+      "ActualSequence": 67,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "IM",
+      "Latitude": 34.096024,
+      "Longitude": -118.279795,
+      "StopType": "Dropoff",
+      "ActualSequence": 68,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "EY",
+      "Latitude": 34.097596,
+      "Longitude": -118.279776,
+      "StopType": "Dropoff",
+      "ActualSequence": 69,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "MQ",
+      "Latitude": 34.095091,
+      "Longitude": -118.281013,
+      "StopType": "Dropoff",
+      "ActualSequence": 70,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "RA",
+      "Latitude": 34.094442,
+      "Longitude": -118.281417,
+      "StopType": "Dropoff",
+      "ActualSequence": 71,
+      "ZoneID": "P-13.2C"
+    },
+    {
+      "StopID": "US",
+      "Latitude": 34.093403,
+      "Longitude": -118.281442,
+      "StopType": "Dropoff",
+      "ActualSequence": 72,
+      "ZoneID": "P-13.3C"
+    },
+    {
+      "StopID": "PJ",
+      "Latitude": 34.091681,
+      "Longitude": -118.280876,
+      "StopType": "Dropoff",
+      "ActualSequence": 73,
+      "ZoneID": "P-13.3D"
+    },
+    {
+      "StopID": "GW",
+      "Latitude": 34.091259,
+      "Longitude": -118.281142,
+      "StopType": "Dropoff",
+      "ActualSequence": 74,
+      "ZoneID": "P-13.3D"
+    },
+    {
+      "StopID": "RY",
+      "Latitude": 34.090961,
+      "Longitude": -118.281325,
+      "StopType": "Dropoff",
+      "ActualSequence": 75,
+      "ZoneID": "A-2.3B"
+    },
+    {
+      "StopID": "FY",
+      "Latitude": 34.088782,
+      "Longitude": -118.282842,
+      "StopType": "Dropoff",
+      "ActualSequence": 76,
+      "ZoneID": "A-2.3B"
+    },
+    {
+      "StopID": "YR",
+      "Latitude": 34.090347,
+      "Longitude": -118.282857,
+      "StopType": "Dropoff",
+      "ActualSequence": 77,
+      "ZoneID": "A-2.3A"
+    },
+    {
+      "StopID": "WS",
+      "Latitude": 34.089433,
+      "Longitude": -118.283433,
+      "StopType": "Dropoff",
+      "ActualSequence": 78,
+      "ZoneID": "A-2.3A"
+    },
+    {
+      "StopID": "NM",
+      "Latitude": 34.089111,
+      "Longitude": -118.283641,
+      "StopType": "Dropoff",
+      "ActualSequence": 79,
+      "ZoneID": "A-2.3A"
+    },
+    {
+      "StopID": "HO",
+      "Latitude": 34.090795,
+      "Longitude": -118.28258,
+      "StopType": "Dropoff",
+      "ActualSequence": 80,
+      "ZoneID": "A-2.3A"
+    },
+    {
+      "StopID": "GB",
+      "Latitude": 34.091462,
+      "Longitude": -118.282166,
+      "StopType": "Dropoff",
+      "ActualSequence": 81,
+      "ZoneID": "A-2.3A"
+    },
+    {
+      "StopID": "PS",
+      "Latitude": 34.093749,
+      "Longitude": -118.27956,
+      "StopType": "Dropoff",
+      "ActualSequence": 82,
+      "ZoneID": "P-13.2D"
+    },
+    {
+      "StopID": "LY",
+      "Latitude": 34.094895,
+      "Longitude": -118.278862,
+      "StopType": "Dropoff",
+      "ActualSequence": 83,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "LK",
+      "Latitude": 34.09483,
+      "Longitude": -118.280816,
+      "StopType": "Dropoff",
+      "ActualSequence": 84,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "QE",
+      "Latitude": 34.095318,
+      "Longitude": -118.279716,
+      "StopType": "Dropoff",
+      "ActualSequence": 85,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "CK",
+      "Latitude": 34.095794,
+      "Longitude": -118.279086,
+      "StopType": "Dropoff",
+      "ActualSequence": 86,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "HG",
+      "Latitude": 34.096383,
+      "Longitude": -118.278688,
+      "StopType": "Dropoff",
+      "ActualSequence": 87,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "FF",
+      "Latitude": 34.096966,
+      "Longitude": -118.278668,
+      "StopType": "Dropoff",
+      "ActualSequence": 88,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "MO",
+      "Latitude": 34.09637,
+      "Longitude": -118.277801,
+      "StopType": "Dropoff",
+      "ActualSequence": 89,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "YN",
+      "Latitude": 34.096363,
+      "Longitude": -118.277216,
+      "StopType": "Dropoff",
+      "ActualSequence": 90,
+      "ZoneID": "P-13.1D"
+    },
+    {
+      "StopID": "TQ",
+      "Latitude": 34.101021,
+      "Longitude": -118.273982,
+      "StopType": "Dropoff",
+      "ActualSequence": 91,
+      "ZoneID": "P-12.1D"
+    },
+    {
+      "StopID": "JM",
+      "Latitude": 34.098539,
+      "Longitude": -118.276077,
+      "StopType": "Dropoff",
+      "ActualSequence": 92,
+      "ZoneID": "P-12.1D"
+    },
+    {
+      "StopID": "HW",
+      "Latitude": 34.097272,
+      "Longitude": -118.275631,
+      "StopType": "Dropoff",
+      "ActualSequence": 93,
+      "ZoneID": "P-12.1D"
+    },
+    {
+      "StopID": "IP",
+      "Latitude": 34.096993,
+      "Longitude": -118.277969,
+      "StopType": "Dropoff",
+      "ActualSequence": 94,
+      "ZoneID": "P-12.2D"
+    },
+    {
+      "StopID": "SI",
+      "Latitude": 34.096955,
+      "Longitude": -118.277191,
+      "StopType": "Dropoff",
+      "ActualSequence": 95,
+      "ZoneID": "P-12.2D"
+    },
+    {
+      "StopID": "CM",
+      "Latitude": 34.097235,
+      "Longitude": -118.276636,
+      "StopType": "Dropoff",
+      "ActualSequence": 96,
+      "ZoneID": "P-12.2D"
+    },
+    {
+      "StopID": "HB",
+      "Latitude": 34.097631,
+      "Longitude": -118.278111,
+      "StopType": "Dropoff",
+      "ActualSequence": 97,
+      "ZoneID": "P-12.2D"
+    },
+    {
+      "StopID": "XD",
+      "Latitude": 34.098095,
+      "Longitude": -118.277802,
+      "StopType": "Dropoff",
+      "ActualSequence": 98,
+      "ZoneID": "P-12.3D"
+    },
+    {
+      "StopID": "SQ",
+      "Latitude": 34.099043,
+      "Longitude": -118.278424,
+      "StopType": "Dropoff",
+      "ActualSequence": 99,
+      "ZoneID": "P-12.3D"
+    },
+    {
+      "StopID": "ZP",
+      "Latitude": 34.099485,
+      "Longitude": -118.278658,
+      "StopType": "Dropoff",
+      "ActualSequence": 100,
+      "ZoneID": "P-12.3D"
+    },
+    {
+      "StopID": "EH",
+      "Latitude": 34.098182,
+      "Longitude": -118.279915,
+      "StopType": "Dropoff",
+      "ActualSequence": 101,
+      "ZoneID": "P-12.3D"
+    },
+    {
+      "StopID": "YJ",
+      "Latitude": 34.098948,
+      "Longitude": -118.280668,
+      "StopType": "Dropoff",
+      "ActualSequence": 102,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "TY",
+      "Latitude": 34.099138,
+      "Longitude": -118.28142,
+      "StopType": "Dropoff",
+      "ActualSequence": 103,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "EX",
+      "Latitude": 34.09914,
+      "Longitude": -118.282492,
+      "StopType": "Dropoff",
+      "ActualSequence": 104,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "AD",
+      "Latitude": 34.099611,
+      "Longitude": -118.283062,
+      "StopType": "Dropoff",
+      "ActualSequence": 105,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "EC",
+      "Latitude": 34.100006,
+      "Longitude": -118.282101,
+      "StopType": "Dropoff",
+      "ActualSequence": 106,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "QO",
+      "Latitude": 34.100003,
+      "Longitude": -118.281338,
+      "StopType": "Dropoff",
+      "ActualSequence": 107,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "UN",
+      "Latitude": 34.099871,
+      "Longitude": -118.280658,
+      "StopType": "Dropoff",
+      "ActualSequence": 108,
+      "ZoneID": "P-12.3C"
+    },
+    {
+      "StopID": "BE",
+      "Latitude": 34.098482,
+      "Longitude": -118.286243,
+      "StopType": "Dropoff",
+      "ActualSequence": 109,
+      "ZoneID": "P-13.3B"
+    },
+    {
+      "StopID": "PB",
+      "Latitude": 34.099181,
+      "Longitude": -118.28625,
+      "StopType": "Dropoff",
+      "ActualSequence": 110,
+      "ZoneID": "P-13.3B"
+    },
+    {
+      "StopID": "HR",
+      "Latitude": 34.09959,
+      "Longitude": -118.286258,
+      "StopType": "Dropoff",
+      "ActualSequence": 111,
+      "ZoneID": "P-13.3B"
+    },
+    {
+      "StopID": "ZB",
+      "Latitude": 34.098661,
+      "Longitude": -118.285183,
+      "StopType": "Dropoff",
+      "ActualSequence": 112,
+      "ZoneID": "P-13.2B"
+    },
+    {
+      "StopID": "WJ",
+      "Latitude": 34.099992,
+      "Longitude": -118.284328,
+      "StopType": "Dropoff",
+      "ActualSequence": 113,
+      "ZoneID": "P-13.1B"
+    },
+    {
+      "StopID": "UU",
+      "Latitude": 34.101004,
+      "Longitude": -118.283957,
+      "StopType": "Dropoff",
+      "ActualSequence": 114,
+      "ZoneID": "P-13.1B"
+    },
+    {
+      "StopID": "SD",
+      "Latitude": 34.10082,
+      "Longitude": -118.283959,
+      "StopType": "Dropoff",
+      "ActualSequence": 115,
+      "ZoneID": "P-13.1B"
+    },
+    {
+      "StopID": "YY",
+      "Latitude": 34.100902,
+      "Longitude": -118.285704,
+      "StopType": "Dropoff",
+      "ActualSequence": 116,
+      "ZoneID": "P-13.1B"
+    },
+    {
+      "StopID": "PX",
+      "Latitude": 34.100883,
+      "Longitude": -118.28602,
+      "StopType": "Dropoff",
+      "ActualSequence": 117,
+      "ZoneID": "P-13.1B"
+    },
+    {
+      "StopID": "QX",
+      "Latitude": 34.097948,
+      "Longitude": -118.286795,
+      "StopType": "Dropoff",
+      "ActualSequence": 118,
+      "ZoneID": "P-13.3A"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "RouteID": "RouteID_00143bdd-0a6b-49ec-bb35-36593d303e77",
+    "DisruptionID": "DISR_3d303e77_1",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 22,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_18",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_00143bdd-0a6b-49ec-bb35-36593d303e77",
+    "DisruptionID": "DISR_3d303e77_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 19,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_72",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_0016bc70-cb8d-48b0-aa55-8ee50bdcdb59",
+    "DisruptionID": "DISR_0bdcdb59_1",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 32,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_20",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_0016bc70-cb8d-48b0-aa55-8ee50bdcdb59",
+    "DisruptionID": "DISR_0bdcdb59_2",
+    "DisruptionType": "VEHICLE_CAPACITY_REDUCTION",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 18,
+    "AffectedStopID": "Stop_94",
+    "Description": "VEHICLE_CAPACITY_REDUCTION on route"
+  },
+  {
+    "RouteID": "RouteID_001948e9-4675-486d-9ec5-912fd8e0770f",
+    "DisruptionID": "DISR_d8e0770f_1",
+    "DisruptionType": "VEHICLE_CAPACITY_REDUCTION",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 16,
+    "AffectedStopID": "Stop_6",
+    "Description": "VEHICLE_CAPACITY_REDUCTION on route"
+  },
+  {
+    "RouteID": "RouteID_001948e9-4675-486d-9ec5-912fd8e0770f",
+    "DisruptionID": "DISR_d8e0770f_2",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_48",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_001b4ee3-c4f2-467f-932b-c85524d1021f",
+    "DisruptionID": "DISR_24d1021f_1",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_21",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_001b4ee3-c4f2-467f-932b-c85524d1021f",
+    "DisruptionID": "DISR_24d1021f_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 7,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_52",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_0021a2aa-780f-460d-b09a-f301709e2523",
+    "DisruptionID": "DISR_709e2523_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "MEDIUM",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_19",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_0021a2aa-780f-460d-b09a-f301709e2523",
+    "DisruptionID": "DISR_709e2523_2",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "MEDIUM",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_66",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_0036cf37-1c93-48f8-b337-3dd6d1a195d8",
+    "DisruptionID": "DISR_d1a195d8_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_49",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_0036cf37-1c93-48f8-b337-3dd6d1a195d8",
+    "DisruptionID": "DISR_d1a195d8_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "HIGH",
+    "DelayMinutes": 39,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_99",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_00437423-5a8f-4fac-8efa-85264f0a3944",
+    "DisruptionID": "DISR_4f0a3944_1",
+    "DisruptionType": "VEHICLE_CAPACITY_REDUCTION",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 34,
+    "AffectedStopID": "Stop_14",
+    "Description": "VEHICLE_CAPACITY_REDUCTION on route"
+  },
+  {
+    "RouteID": "RouteID_00437423-5a8f-4fac-8efa-85264f0a3944",
+    "DisruptionID": "DISR_4f0a3944_2",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_1",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_00573a3d-b909-42ee-8a99-c6474309d96b",
+    "DisruptionID": "DISR_4309d96b_1",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_94",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_00573a3d-b909-42ee-8a99-c6474309d96b",
+    "DisruptionID": "DISR_4309d96b_2",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "MEDIUM",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_28",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_00575a14-7d19-4291-8853-8f7095ed1bc6",
+    "DisruptionID": "DISR_95ed1bc6_1",
+    "DisruptionType": "VEHICLE_CAPACITY_REDUCTION",
+    "Severity": "MEDIUM",
+    "DelayMinutes": 0,
+    "CapacityReduction": 26,
+    "AffectedStopID": "Stop_32",
+    "Description": "VEHICLE_CAPACITY_REDUCTION on route"
+  },
+  {
+    "RouteID": "RouteID_00575a14-7d19-4291-8853-8f7095ed1bc6",
+    "DisruptionID": "DISR_95ed1bc6_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 9,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_10",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_00575ca4-8a63-49d2-96c8-9b347be5ba6c",
+    "DisruptionID": "DISR_7be5ba6c_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "LOW",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_53",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_00575ca4-8a63-49d2-96c8-9b347be5ba6c",
+    "DisruptionID": "DISR_7be5ba6c_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "HIGH",
+    "DelayMinutes": 11,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_94",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_00595235-52e7-4b68-883c-70482701dea0",
+    "DisruptionID": "DISR_2701dea0_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "LOW",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_32",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_00595235-52e7-4b68-883c-70482701dea0",
+    "DisruptionID": "DISR_2701dea0_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 20,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_63",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_006f581c-3087-4edf-8802-278b078157b9",
+    "DisruptionID": "DISR_078157b9_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "MEDIUM",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_37",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_006f581c-3087-4edf-8802-278b078157b9",
+    "DisruptionID": "DISR_078157b9_2",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "LOW",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_8",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_00747543-3f2f-47ae-a2f2-91b30ce207ab",
+    "DisruptionID": "DISR_0ce207ab_1",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "LOW",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_24",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_00747543-3f2f-47ae-a2f2-91b30ce207ab",
+    "DisruptionID": "DISR_0ce207ab_2",
+    "DisruptionType": "ROAD_CLOSURE",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_80",
+    "Description": "ROAD_CLOSURE on route"
+  },
+  {
+    "RouteID": "RouteID_0074e307-23c1-4b15-afa2-e58b45e4403c",
+    "DisruptionID": "DISR_45e4403c_1",
+    "DisruptionType": "VEHICLE_CAPACITY_REDUCTION",
+    "Severity": "LOW",
+    "DelayMinutes": 0,
+    "CapacityReduction": 18,
+    "AffectedStopID": "Stop_86",
+    "Description": "VEHICLE_CAPACITY_REDUCTION on route"
+  },
+  {
+    "RouteID": "RouteID_0074e307-23c1-4b15-afa2-e58b45e4403c",
+    "DisruptionID": "DISR_45e4403c_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 39,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_34",
+    "Description": "TRAFFIC_DELAY on route"
+  },
+  {
+    "RouteID": "RouteID_0076d53c-6bfa-4e22-b39e-08769fb8e4d3",
+    "DisruptionID": "DISR_9fb8e4d3_1",
+    "DisruptionType": "NEW_STOP",
+    "Severity": "HIGH",
+    "DelayMinutes": 0,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_79",
+    "Description": "NEW_STOP on route"
+  },
+  {
+    "RouteID": "RouteID_0076d53c-6bfa-4e22-b39e-08769fb8e4d3",
+    "DisruptionID": "DISR_9fb8e4d3_2",
+    "DisruptionType": "TRAFFIC_DELAY",
+    "Severity": "LOW",
+    "DelayMinutes": 21,
+    "CapacityReduction": 0,
+    "AffectedStopID": "Stop_96",
+    "Description": "TRAFFIC_DELAY on route"
+  }
+]
