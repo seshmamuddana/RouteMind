@@ -258,7 +258,6 @@ The system explains every route modification by highlighting:
 
 - React
 - Tailwind CSS
-- Leaflet.js
 - Recharts
 
 ## Backend
