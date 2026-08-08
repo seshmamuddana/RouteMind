@@ -1,0 +1,15 @@
+Feature,Importance
+categorical__Severity_LOW,0.19281454600542872
+categorical__Severity_HIGH,0.16206969340971053
+categorical__Severity_MEDIUM,0.1063326578003541
+numeric__StopsLost,0.09896939675465803
+numeric__RecoveryEfficiency(%),0.08398130670986549
+numeric__TimeChange(Hours),0.06407431205580116
+numeric__DistanceChange(KM),0.06060877111731314
+numeric__TotalStops,0.045641703691303236
+numeric__CapacityReduction,0.04433367987463551
+numeric__DelayMinutes,0.04028796588844164
+categorical__DisruptionType_VEHICLE_CAPACITY_REDUCTION,0.031232696237484547
+categorical__DisruptionType_NEW_STOP,0.02867095973690133
+categorical__DisruptionType_ROAD_CLOSURE,0.02726681961654468
+categorical__DisruptionType_TRAFFIC_DELAY,0.013715491101557876
