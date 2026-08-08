@@ -1,7 +1,6 @@
-# 🚚 RouteMind
+#  RouteMind
 ### Adaptive Route Optimization for the Supply Chain
-
-> AI-powered route optimization and dynamic route replanning system for first-mile, middle-mile, and last-mile logistics.
+ AI-powered route optimization and dynamic route replanning system for first-mile, middle-mile, and last-mile logistics.
 
 ---
 
